@@ -11,13 +11,21 @@ Dont-Get-Hunted is a thrilling multiplayer game set in a labyrinth where players
 - Humans vs. Monsters gameplay.
 
 ## Screenshots
-[Include screenshots or GIFs here]
+![Human](/Assets/Sprite/Human/Human.png)
 
 ## Installation Instructions
-[Provide instructions for setting up and running the game locally]
+For now, there is no build yet. For installation process is quite simple:
+- Clone this repository
+- Open this project on the Unity hub
+- The current Unity engine version for this project is 2021.3.31f1 LTS
+- Open the project
+- Done, you are now able to have everything inside the project including API for the photon
 
 ## Usage Instructions
-[Explain how to play the game and provide controls/rules]
+- The game starts on the main menu then it will connect you to the photon using the Dont-Get-Hunted\Assets\Script\Manager\ConnectToServer.cs
+- Then it will ask you to either create a new room or join an existing room
+- Once you enter a room, there will be a prompt that you need to choose between human and monster
+- When you pick one, it will put you to the gameplay straight away
 
 ## Technologies Used
 - Unity
