@@ -11,7 +11,7 @@ Dont-Get-Hunted is a thrilling multiplayer game set in a labyrinth where players
 - Humans vs. Monsters gameplay.
 
 ## Screenshots
-![Human](/Assets/Sprite/Human/Human.png)
+![Human](/Assets/Sprite/Human/Human.png?raw=true)
 
 ## Installation Instructions
 For now, there is no build yet. For installation process is quite simple:
